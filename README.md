@@ -1,1 +1,1 @@
-# MazeSolver
+# Self Balancing Robot
